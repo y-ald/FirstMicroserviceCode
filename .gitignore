@@ -1,0 +1,5 @@
+.vscode
+target/*
+fraud/target/*
+customer/target/*
+eurekaserver/target/*
